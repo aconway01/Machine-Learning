@@ -1,0 +1,4 @@
+# Multilayer Perceptrons
+
+The network implemented consists of 748 input nodes, 1 hidden layer containing 5 nodes, and 1 output node. A sigmoid function was used as the activation function. The most recent run of the network with test data for 0’s and 1’s resulted in a mean squared error of 0.00236 and a correctly predicted 99.76 examples. 5 epochs were run on the training data. An alpha of 0.05 was used for training. Results were generally above 90% accurate with 2 epochs and 2 nodes within the hidden layer, however, accuracy in predictions were more consistent with 5 nodes in the hidden layer and 5 epochs without adding significant overhead to the computation time. An alpha of 0.05 served to provide a fast learning rate without being too large as to cause the network to not converge. As always, Python 3 with the Numpy module was used.
+
