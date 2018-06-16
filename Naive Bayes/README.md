@@ -1,6 +1,7 @@
 # Naive Bayes
 
-Prediction accuracy for naïve bayes with unigrams are the following:
+	Prediction accuracy for naïve bayes with unigrams are the following:
+
 Hamlet accuracy:  91.3 %
 
 Juliet accuracy:  20.0 %
@@ -11,7 +12,8 @@ Romeo accuracy:  9.92 %
 
 Total accuracy:  48.66 %
 
-Prediction accuracy for naïve bayes with bigrams are the following:
+	Prediction accuracy for naïve bayes with bigrams are the following:
+
 Hamlet accuracy:  99.66 %
 
 Juliet accuracy:  1.01 %
